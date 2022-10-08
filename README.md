@@ -2,7 +2,6 @@
 ## System Modules
 1. [Gateway](https://github.com/Vadim-Burns/Gateway)
 2. [ML](https://github.com/Vadim-Burns/ML)
-3. [MainParser](https://github.com/Vadim-Burns/MainParser)
 4. [Parser](https://github.com/Vadim-Burns/Parser)
 
 ## System Requirements

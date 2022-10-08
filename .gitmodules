@@ -1,12 +1,16 @@
 [submodule "ML"]
 	path = ML
-	url = git@github.com:Vadim-Burns/ML.git
+	url = https://github.com/Vadim-Burns/ML
+	branch = master
 [submodule "Parser"]
 	path = Parser
 	url = git@github.com:Vadim-Burns/Parser.git
+	branch = master
 [submodule "Gateway"]
 	path = Gateway
 	url = git@github.com:Vadim-Burns/Gateway.git
+	branch = master
 [submodule "MainParser"]
 	path = MainParser
 	url = git@github.com:Vadim-Burns/MainParser.git
+	branch = master
